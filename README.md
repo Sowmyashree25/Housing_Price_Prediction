@@ -14,9 +14,7 @@ You are required to model the price of houses with the available independent var
 
 
 **General Information**
-In this assignment, we will
-
-   Use a hybrid combination of RFE and manual menthods for feature selection.
+In this assignment, we will use a hybrid combination of RFE and manual menthods for feature selection.
    build a linear regression model with ridge and lasso regularization for predicting 'SalePrice', which is the final selling price of a property.
    Find optimal regularization parameters for each of the methods using Grid search with K-Fold cross validation.
    Use R-squared score on the test set to evaluate our model
